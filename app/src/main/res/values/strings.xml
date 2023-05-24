@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RandomApiConsumer</string>
+    <string name="title_list">Lista de Usuarios</string>
+    <string name="title_user_data">Datos del usuario</string>
+    <string name="gender">Género: </string>
+    <string name="name">Nombre: </string>
+    <string name="user">Usuario: </string>
+    <string name="email">Email: </string>
+    <string name="phone">Teléfono: </string>
+    <string name="address">Dirección: </string>
+    <string name="by_lastname">by Lastname</string>
+    <string name="by_age">by Age</string>
+    <string name="by_default">by Default</string>
+</resources>
